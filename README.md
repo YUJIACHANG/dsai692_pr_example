@@ -26,3 +26,9 @@ python toolbox.py shout hello world
 6. Add `notes/<your-github-username>.md`.
 7. Push your branch (`git push origin feature/<your-tool>`) and open a pull request
    against `main`. Never commit directly to `main`.
+
+
+python toolbox.py <reverse> hello world
+git add .
+git commit -m "Add <reverse> tool"
+git push origin feature/<reverse>
