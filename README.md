@@ -14,7 +14,7 @@ python toolbox.py shout hello world
 | shout | upper-cases the text and adds `!` | dianewoodbridge |
 | reverse | reverses the text |  |
 | wordcount | counts the words |  |
-| initials | returns the initials | |
+| initials | returns the initials | DylanSidhu03 |
 
 ## How to contribute
 
